@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm 
   <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">AMEZING77</a>
 </h1>
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> 
