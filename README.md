@@ -2,20 +2,28 @@
   <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">AMEZING77</a>
 </h1>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--修仙图-->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=amezing77&label=Profile%20views&color=0e75b6&style=flat" alt="amezing77" /> 
-
+    <img src="https://github-immortality.vercel.app/api?username=AMEZING77" />
 </p>
 
-![AMEZING77's GitHub stats](https://github-immortality.vercel.app/api?username=AMEZING77)
-
-
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--界面浏览数显示-->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=amezing77&label=Profile%20views&color=0e75b6&style=flat" alt="amezing77" /> 
+</p>
+<!--成就徽章-->
 <p align="left"> 
     <img src="https://github-profile-trophy.vercel.app/?username=amezing77" alt="amezing77" />
 </p>
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AMEZING77/AMEZING77/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AMEZING77/AMEZING77/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SIMple-lives/SIMple-lives/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+</div>
 
 
 
@@ -92,17 +100,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMEZING77&theme=tokyonight&layout=compact)
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<!--
-**AMEZING77/AMEZING77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
