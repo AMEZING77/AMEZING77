@@ -9,18 +9,17 @@
 <!--修仙图-->
 <img src="https://github-immortality.vercel.app/api?username=AMEZING77" />
 
+---
+## My Record
+[20250123--Dapper的一些基础知识](https://github.com/AMEZING77/VS_Code_WorkBook/blob/main/MyRecord/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/20250123--Dapper.md)
 
-##
+
+---
 ![](https://github-readme-stats.vercel.app/api?username=AMEZING77&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMEZING77&theme=tokyonight" alt="mystreak"/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMEZING77&theme=tokyonight&layout=compact)
 <!--成就徽章-->
 <img src="https://github-profile-trophy.vercel.app/?username=amezing77" alt="amezing77" />
-
-
-
-
-
 
 
 ### 🛠️ My Favorite Tools
