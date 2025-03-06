@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 
-  <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">AMEZING77</a>  
+  <a href="https://AMEZING77.github.io/AMEZING77/" target="blank">AMEZING77</a>  
   <!--界面浏览数显示-->
   <img src="https://komarev.com/ghpvc/?username=amezing77&label=Profile%20views&color=0e75b6&style=flat" alt="amezing77" /> 
 </h1>
@@ -11,44 +11,47 @@
 
 ---
 ## My Record
-- [SQL基础](MYRECORDS\20241108--SQL基础.md)
-- [ASP.NETCore基础](MYRECORDS\20241130--ASPNETCore.md)
-- [SQLServer](MYRECORDS\20241219--SQLSERVER.md)
-- [WPF](MYRECORDS\20241229--WPF.md)
-- [Control中的Invoke与BeginInvoke](MYRECORDS\20250109--Control中的Invoke与BeginInvoke.md)
-- [根据代码生成类图](MYRECORDS\20250114--根据代码生成类图.md)
-- [西门子S71200通讯开发](MYRECORDS\20250114--西门子S71200通讯开发.md)
-- [Devexpress中的DataGridControl控件](MYRECORDS\20250114--Devexpress中的DataGridControl控件.md)
-- [特性Attribute](MYRECORDS\20250116--特性Attribute.md)
-- [业务逻辑和Task中的MessageBoxShow](MYRECORDS\20250117--业务逻辑和Task中的MessageBoxShow.md)
-- [Windows操作](MYRECORDS\20250117--Windows操作.md)
-- [正则表达式](MYRECORDS\20250118--正则表达式.md)
-- [单元测试](MYRECORDS\20250120--单元测试.md)
-- [懒得整理](MYRECORDS\20250120--懒得整理.md)
-- [使用ILSPY反编译调试程序](MYRECORDS\20250120--使用ILSPY反编译调试程序.md)
-- [float类型判断相等](MYRECORDS\20250120--float类型判断相等.md)
-- [PerfView查看内存和CPU问题](MYRECORDS\20250120--PerfView查看内存和CPU问题.md)
-- [CSharp修饰符](MYRECORDS\20250121--CSharp修饰符.md)
-- [Dapper](MYRECORDS\20250123--Dapper.md)
-- [DesignPatterns](MYRECORDS\20250123--DesignPatterns.md)
-- [EF](MYRECORDS\20250123--EF.md)
-- [IOC](MYRECORDS\20250123--IOC.md)
-- [git与ssh配置](MYRECORDS\20250124--git与ssh配置.md)
-- [Nuget发包至Gitlab](MYRECORDS\20250220--Nuget发包至Gitlab.md)
-- [生成失败[MSB4018-ResolvePackageAssets]](MYRECORDS\20250221-生成失败[MSB4018-ResolvePackageAssets].md)
-- [OpenCV](MYRECORDS\20250224--OpenCV.md)
-- [持续按压按钮触发事件](MYRECORDS\20250225--持续按压按钮触发事件.md)
-- [PythonLib](MYRECORDS\20250225--PythonLib.md)
-- [LinearAlgebra](MYRECORDS\20250226--LinearAlgebra.md)
-- [Wireshrak抓TCP包](MYRECORDS\20250228--Wireshrak抓TCP包.md)
-- [计算机视觉](MYRECORDS\20250302--计算机视觉.md)
-- [UI阻塞](MYRECORDS\20250303--UI阻塞.md)
-- [串口通讯](MYRECORDS\20250305--串口通讯.md)
-- [概率论与统计应用](MYRECORDS\20250305--概率论与统计应用.md)
-- [线程安全](MYRECORDS\20250305--线程安全.md)
-- [Linq](MYRECORDS\20250305--Linq.md)
-- [通用技能](MYRECORDS\通用技能.md)
-- [MQTT](MYRECORDS\MQTT.md)
+<h1>Markdown Files</h1> 
+<ul> 
+<li><a href="MYRECORDS/20241108--SQL基础.md">SQL基础</a></li> 
+<li><a href="MYRECORDS/20241130--ASPNETCore.md">ASP.NETCore基础</a></li> 
+<li><a href="MYRECORDS/20241219--SQLSERVER.md">SQLServer</a></li>
+<li><a href="MYRECORDS/20241229--WPF.md">WPF</a></li>
+<li><a href="MYRECORDS/20250109--Control中的Invoke与BeginInvoke.md">Control中的Invoke与BeginInvoke</a></li>
+<li><a href="MYRECORDS/20250114--根据代码生成类图.md">根据代码生成类图</a></li>
+<li><a href="MYRECORDS/20250114--西门子S71200通讯开发.md">西门子S71200通讯开发</a></li>
+<li><a href="MYRECORDS/20250114--Devexpress中的DataGridControl控件.md">Devexpress中的DataGridControl控件</a></li>
+<li><a href="MYRECORDS/20250116--特性Attribute.md">特性Attribute</a></li>
+<li><a href="MYRECORDS/20250117--业务逻辑和Task中的MessageBoxShow.md">业务逻辑和Task中的MessageBoxShow</a></li>
+<li><a href="MYRECORDS/20250117--Windows操作.md">Windows操作</a></li>
+<li><a href="MYRECORDS/20250118--正则表达式.md">正则表达式</a></li>
+<li><a href="MYRECORDS/20250120--单元测试.md">单元测试</a></li>
+<li><a href="MYRECORDS/20250120--懒得整理.md">懒得整理</a></li>
+<li><a href="MYRECORDS/20250120--使用ILSPY反编译调试程序.md">使用ILSPY反编译调试程序</a></li>
+<li><a href="MYRECORDS/20250120--float类型判断相等.md">float类型判断相等</a></li>
+<li><a href="MYRECORDS/20250120--PerfView查看内存和CPU问题.md">PerfView查看内存和CPU问题</a></li>
+<li><a href="MYRECORDS/20250121--CSharp修饰符.md">CSharp修饰符</a></li>
+<li><a href="MYRECORDS/20250123--Dapper.md">Dapper</a></li>
+<li><a href="MYRECORDS/20250123--DesignPatterns.md">DesignPatterns</a></li>
+<li><a href="MYRECORDS/20250123--EF.md">EF</a></li>
+<li><a href="MYRECORDS/20250123--IOC.md">IOC</a></li>
+<li><a href="MYRECORDS/20250124--git与ssh配置.md">git与ssh配置</a></li>
+<li><a href="MYRECORDS/20250220--Nuget发包至Gitlab.md">Nuget发包至Gitlab</a></li>
+<li><a href="MYRECORDS/20250221-生成失败[MSB4018-ResolvePackageAssets].md">生成失败[MSB4018-ResolvePackageAssets]</a></li>
+<li><a href="MYRECORDS/20250224--OpenCV.md">OpenCV</a></li>
+<li><a href="MYRECORDS/20250225--持续按压按钮触发事件.md">持续按压按钮触发事件</a></li>
+<li><a href="MYRECORDS/20250225--PythonLib.md">PythonLib</a></li>
+<li><a href="MYRECORDS/20250226--LinearAlgebra.md">LinearAlgebra</a></li>
+<li><a href="MYRECORDS/20250228--Wireshrak抓TCP包.md">Wireshrak抓TCP包</a></li>
+<li><a href="MYRECORDS/20250302--计算机视觉.md">计算机视觉</a></li>
+<li><a href="MYRECORDS/20250303--UI阻塞.md">UI阻塞</a></li>
+<li><a href="MYRECORDS/20250305--串口通讯.md">串口通讯</a></li>
+<li><a href="MYRECORDS/20250305--概率论与统计应用.md">概率论与统计应用</a></li>
+<li><a href="MYRECORDS/20250305--线程安全.md">线程安全</a></li>
+<li><a href="MYRECORDS/20250305--Linq.md">Linq</a></li>
+<li><a href="MYRECORDS/通用技能.md">通用技能</a></li>
+<li><a href="MYRECORDS/MQTT.md">MQTT</a></li>
+</ul>
 
 
 ---
