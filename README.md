@@ -12,8 +12,11 @@
 ---
 ## My Record
 [SQL基础](MYRECORDS\20241108--SQL基础.md)
+
 [ASPNETCore](MYRECORDS\20241130--ASPNETCore.md)
+
 [SQLServer](MYRECORDS\20241219--SQLSERVER.md)
+
 [WPF](MYRECORDS\20241229--WPF.md)
 [Control中的Invoke与BeginInvoke](MYRECORDS\20250109--Control中的Invoke与BeginInvoke.md)
 [根据代码生成类图](MYRECORDS\20250114--根据代码生成类图.md)
