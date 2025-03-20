@@ -14,12 +14,14 @@
 - [基于百度Api与Sqlite轻量部署的自动化Winform项目翻译工具](https://github.com/AMEZING77/Translator.git)
 - [基于工厂模式与Sqlite的运动控制模块（兼容雷赛、固高板卡，兼容汇川、欧姆龙、西门子、三楼等TCP与Udp通讯）](https://github.com/AMEZING77/MotionResource.git)
 - [【进行中】离线测长测厚CCD缺陷检测项目重构](20250320--离线测厚测长项目重构.md)
+
 ## 我的分享
 - [UI阻塞](20250303--UI阻塞.md)
 - [线程安全](20250305--线程安全.md)
 - [Linq](20250305--Linq.md)
 - [生产消费模型ConcurrentQueue](20240716--生产消费模型ConcurrentQueue.md)
 - [C#中的Dictionary](20240730--Dictionary的分享.md)
+
 ## 日常记录
 - [基于Python的OpenCV应用](https://github.com/AMEZING77/PythonFolder.git)
 - [Dapper](20250123--Dapper.md)
