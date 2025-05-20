@@ -28,6 +28,7 @@
 - [DesignPatterns](20250123--DesignPatterns.md)
 - [EF](20250123--EF.md)
 - [IOC](20250123--IOC.md)
+- [C++](20250520--C++.md)
 - [西门子S71200通讯开发](20250114--西门子S71200通讯开发.md)
 - [业务逻辑和Task中的MessageBoxShow](20250117--业务逻辑和Task中的MessageBoxShow.md)
 - [Nuget发包至Gitlab](20250220--Nuget发包至Gitlab.md)
