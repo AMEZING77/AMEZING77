@@ -11,9 +11,10 @@
 
 ---
 ## 我的个人项目
+- [应用CGraph图化框架对OpenCV的二次封装](https://github.com/AMEZING77/20250728-OpenCV.git)
 - [基于百度Api与Sqlite轻量部署的自动化Winform项目翻译工具](https://github.com/AMEZING77/Translator.git)
 - [基于工厂模式与Sqlite的运动控制模块（兼容雷赛、固高板卡，兼容汇川、欧姆龙、西门子、三楼等TCP与Udp通讯）](https://github.com/AMEZING77/MotionResource.git)
-- [【进行中】离线测长测厚CCD缺陷检测项目重构](20250320--离线测厚测长项目重构.md)
+- [离线测长测厚CCD缺陷检测项目重构](20250320--离线测厚测长项目重构.md)
 
 ## 我的分享
 - [UI阻塞](20250303--UI阻塞.md)
