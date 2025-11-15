@@ -42,8 +42,54 @@
 <details>
 <summary><b>📚 技术笔记</b></summary>
 
+<!-- 空一行，然后正常写 Markdown -->
+
+## 我的分享
+- [UI阻塞](20250303--UI阻塞.md)
+- [线程安全](20250305--线程安全.md)
+- [Linq](20250305--Linq.md)
+- [生产消费模型ConcurrentQueue](20240716--生产消费模型ConcurrentQueue.md)
+- [C#中的Dictionary](20240730--Dictionary的分享.md)
+
+## 日常记录
+- [基于Python的OpenCV应用](https://github.com/AMEZING77/PythonFolder.git)
+- [Dapper](20250123--Dapper.md)
+- [DesignPatterns](20250123--DesignPatterns.md)
+- [EF](20250123--EF.md)
+- [IOC](20250123--IOC.md)
+- [西门子S71200通讯开发](20250114--西门子S71200通讯开发.md)
+- [业务逻辑和Task中的MessageBoxShow](20250117--业务逻辑和Task中的MessageBoxShow.md)
+- [Nuget发包至Gitlab](20250220--Nuget发包至Gitlab.md)
+- [SQL基础](20241108--SQL基础.md)
+- [ASPNETCore](20241130--ASPNETCore.md)
+- [SQLServer](20241219--SQLSERVER.md)
+- [WPF](20241229--WPF.md)
+- [计算机视觉](20250302--计算机视觉.md)
+- [OpenCV](20250224--OpenCV.md)
+- [PythonLib](20250225--PythonLib.md)
+- [LinearAlgebra](20250226--LinearAlgebra.md)
+- [Wireshrak抓TCP包](20250228--Wireshrak抓TCP包.md)
+- [Control中的Invoke与BeginInvoke](20250109--Control中的Invoke与BeginInvoke.md)
+- [根据代码生成类图](20250114--根据代码生成类图.md)
+- [Devexpress中的DataGridControl控件](20250114--Devexpress中的DataGridControl控件.md)
+- [特性Attribute](20250116--特性Attribute.md)
+- [Windows操作](20250117--Windows操作.md)
+- [正则表达式](20250118--正则表达式.md)
+- [单元测试](20250120--单元测试.md)
+- [懒得整理](20250120--懒得整理.md)
+- [使用ILSPY反编译调试程序](20250120--使用ILSPY反编译调试程序.md)
+- [float类型判断相等](20250120--float类型判断相等.md)
+- [PerfView查看内存和CPU问题](20250120--PerfView查看内存和CPU问题.md)
+- [CSharp修饰符](20250121--CSharp修饰符.md)
+- [git与ssh配置](20250124--git与ssh配置.md)
+- [生成失败\[MSB4018-ResolvePackageAssets\]](20250221-生成失败[MSB4018-ResolvePackageAssets].md)
+- [持续按压按钮触发事件](20250225--持续按压按钮触发事件.md)
+- [串口通讯](20250305--串口通讯.md)
+- [概率论与统计应用](20250305--概率论与统计应用.md)
+- [通用技能](通用技能.md)
+- [MQTT](MQTT.md)
+
 > UI 阻塞 · 线程安全 · Linq · 生产消费 · Dictionary · Dapper · EF · IOC · 设计模式 · ASP.NET Core · WPF · 计算机视觉 · OpenCV · 概率论 · 串口 · MQTT …  
-👉 [点我展开完整列表](https://github.com/AMEZING77/AMEZING77#日常记录)
 </details>
 
 <!-- ============== 语言 & 工具 ============== -->
