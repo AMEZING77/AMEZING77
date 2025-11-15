@@ -41,7 +41,7 @@
 <!-- ============== 折叠：技术笔记 ============== -->
 <details>
 <summary><b>📚 技术笔记</b></summary>
-
+> UI 阻塞 · 线程安全 · Linq · 生产消费 · Dictionary · Dapper · EF · IOC · 设计模式 · ASP.NET Core · WPF · 计算机视觉 · OpenCV · 概率论 · 串口 · MQTT …  
 <!-- 空一行，然后正常写 Markdown -->
 
 ## 我的分享
@@ -89,7 +89,6 @@
 - [通用技能](通用技能.md)
 - [MQTT](MQTT.md)
 
-> UI 阻塞 · 线程安全 · Linq · 生产消费 · Dictionary · Dapper · EF · IOC · 设计模式 · ASP.NET Core · WPF · 计算机视觉 · OpenCV · 概率论 · 串口 · MQTT …  
 </details>
 
 <!-- ============== 语言 & 工具 ============== -->
