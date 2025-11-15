@@ -26,7 +26,8 @@
 
 | 名称 | 简介 |
 |---|---|
-| [OpenCV-CGraph 封装](https://github.com/AMEZING77/20250728-OpenCV) | 基于 CGraph 的 OpenCV 二次封装 |
+| [CGraph.NET](https://github.com/AMEZING77/CGraph.NET)|基于CGaph的C#本地化|
+| [OpenCV.CGraph](https://github.com/AMEZING77/20250728-OpenCV) | 基于 CGraph 的 OpenCV 二次封装 |
 | [百度 API 翻译器](https://github.com/AMEZING77/Translator) | WinForm + SQLite + 百度 API |
 | [运动控制资源库](https://github.com/AMEZING77/MotionResource) | 工厂模式兼容多品牌运动控制 |
 | [离线 CCD 检测重构](20250320--离线测厚测长项目重构.md) | 缺陷检测项目重构记录 |
