@@ -28,9 +28,14 @@
 |---|---|
 | [CGraph.NET](https://github.com/AMEZING77/CGraph.NET)|基于CGaph的C#本地化|
 | [OpenCV.CGraph](https://github.com/AMEZING77/20250728-OpenCV) | 基于 CGraph 的 OpenCV 二次封装 |
-| [百度 API 翻译器](https://github.com/AMEZING77/Translator) | WinForm + SQLite + 百度 API |
+| [多语言翻译器](https://github.com/AMEZING77/Translator) | WinForm + SQLite + 百度 API |
 | [运动控制资源库](https://github.com/AMEZING77/MotionResource) | 工厂模式兼容多品牌运动控制 |
 | [离线 CCD 检测重构](20250320--离线测厚测长项目重构.md) | 缺陷检测项目重构记录 |
+| [2024CSharpLearning](https://github.com/AMEZING77/2024CSharpLearning)| 2024年C#学习项目的集合|
+| [2023CSharpLearning](https://github.com/AMEZING77/2023CSharpLearning)| 2023年C#学习项目的集合|
+| [2022CSharpLearning](https://github.com/AMEZING77/2022CSharpEntry)| 2022年C#学习项目的集合|
+| [EmployeeManagement](https://github.com/AMEZING77/EmployeeManagement)| 对于MVC+ASP.NET的学习 |
+| [PythonFolder](https://github.com/AMEZING77/PythonFolder)| ptyhon+ Matplotlib + OpenCV +NumPy |
 </details>
 
 <!-- ============== 折叠：技术笔记 ============== -->
